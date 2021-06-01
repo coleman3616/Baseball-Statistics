@@ -1,6 +1,6 @@
 ---
 title: "Baseball Statistics"
-author: "Stryder R. Coleman, Padraic Darby"
+author: "Stryder R. Coleman, Padraic Darby, Chesteran Holligan, Shyan Walker"
 date: "5/21/2021"
 output:
   word_document: default
